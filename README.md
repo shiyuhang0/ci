@@ -3,7 +3,7 @@
 
 ## Servers
 
-### New
+### News
 
 > Only one site in our roadmap.
 
